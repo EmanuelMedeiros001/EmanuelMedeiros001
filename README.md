@@ -1,4 +1,49 @@
+<!--
+  ============================================================
+  README.md — checklist de personalização (não aparece no perfil)
+  1. Troque SEU-USUARIO em TODAS as URLs (github-readme-stats, snake, capsule etc.)
+  2. Troque "Seu Nome" e o texto da seção "Sobre Mim"
+  3. Troque os links de LinkedIn / X / Instagram / e-mail / portfólio / Kaggle / Hugging Face
+  4. Troque projeto-um, projeto-dois... pelos nomes reais dos seus repositórios
+  5. Para a Snake Animation funcionar, configure o GitHub Action
+     descrito na seção "⚙️ Setup" no final deste arquivo
+  ============================================================
+-->
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B263B,35:3A0CA3,65:E63946,100:FFD700&height=230&section=header&text=AI%20ENGINEER&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=neural%20systems%20online%20//%20構築中&descAlignY=56&descSize=18&descColor=EAEAEA" width="100%"/>
+
+<!-- BOOT SEQUENCE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=90&lines=root%40ai-core%3A~%24+boot+--sequence;%5BOK%5D+neural+core+online;%5BOK%5D+github+uplink+established;status%3A+ACCESS+GRANTED+%E2%9A%A1" alt="boot sequence"/>
+
+<!-- SUBTITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=26&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=AI+Engineer;Machine+Learning+%26+LLM+Systems;Building+Autonomous+Agents;Code+%2B+Data+%2B+Curiosity" alt="typing subtitle"/>
+
+<br/>
+
+[![Perfil Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&style=for-the-badge&color=E63946&label=PROFILE+VIEWS)](https://github.com/SEU-USUARIO)
+[![Followers](https://img.shields.io/github/followers/SEU-USUARIO?style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/SEU-USUARIO)
+
+<p>
+  <a href="#-sobre-mim">Sobre</a> •
+  <a href="#-tech-stack">Stack</a> •
+  <a href="#-projetos">Projetos</a> •
+  <a href="#-objetivos-atuais">Objetivos</a> •
+  <a href="#-github-analytics">Stats</a> •
+  <a href="#-conecte-se-comigo">Contato</a>
+</p>
+
+</div>
+
+<br/>
+
+<a name="-sobre-mim"></a>
+## 「約 SOBRE MIM ―― ABOUT ME 」
+
+<table>
+<tr>
+<td width="60%" valign="top">
 - 🧠 **AI Engineer** focado em LLMs, Agentes Autônomos e MLOps
 - 🗾 Inspirado pela precisão do código e pela estética da onda que nunca quebra igual
 - 🔭 Atualmente construindo sistemas de IA aplicados a `[sua área — ex: automação, NLP, visão computacional]`
