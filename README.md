@@ -55,7 +55,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNIPÊ), com foco em se
 <img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=8E75B2"/>
 </p>
 
-**🗄️ Dados**
+**🗄️ Dados (aprendendo)**
 
 <p>
 <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1"/>
