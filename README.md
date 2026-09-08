@@ -67,22 +67,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (UNIPÊ), com foco em se
 <p>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&amp;logo=docker&amp;logoColor=2496ED"/>
 <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=007ACC"/>
 <img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
 <img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
 </p>
-
-<br/>
-
-<a name="projetos"></a>
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição | Stack | Link |
-|---|---|---|---|
-| **Mini-RAG — Documentação HTTPX** | Sistema RAG para busca semântica na documentação do HTTPX: chunking, embeddings com Gemini, recuperação Top-K e similaridade por cosseno. | Python · Gemini · RAG | [Repositório](https://github.com/EmanuelMedeiros001/RAG-Httpx) |
-| **Automações com N8N** | Workflows automatizados com agentes de IA e integração de serviços externos, com registro de interações e organização de etapas do processo. | N8N · APIs · Webhooks | — |
-| **Fábrica de Software** | Atividades práticas de desenvolvimento de software na perspectiva de AI Engineer: análise de problemas e construção de soluções. | Python · SQL | — |
 
 <br/>
 
