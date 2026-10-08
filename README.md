@@ -1,14 +1,6 @@
-<!-- ============================================================
-     README.md — Emanuel Medeiros Gouveia
-     Fonte: currículo (PDF) — apenas competências/projetos confirmados
-     Tema visual: dark blue & electric
-     ============================================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,35:1B263B,65:3A0CA3,100:00F5FF&amp;height=200&amp;section=header&amp;text=EMANUEL%20MEDEIROS&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=36&amp;desc=Automa%C3%A7%C3%A3o%20e%20Integra%C3%A7%C3%A3o%20de%20Sistemas%20%7C%20IA%20Aplicada&amp;descAlignY=58&amp;descSize=16&amp;descColor=EAEAEA" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=2800&amp;pause=1000&amp;color=00F5FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=50&amp;lines=Python+%7C+N8N+%7C+APIs+%7C+RAG+%7C+Agentes+de+IA;Estudante+%7C+Foco+em+AI+Engineering" alt="typing subtitle"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B263B,100:00B8D4&height=160&section=header&text=EMANUEL%20MEDEIROS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Engenharia%20de%20Software%20Full%20Stack&descAlignY=60&descSize=15&descColor=C9D1D9" width="100%"/>
 
 <p>
   <a href="#sobre">Sobre</a> •
@@ -16,115 +8,70 @@
   <a href="#projetos">Projetos</a> •
   <a href="#experiencia">Experiência</a> •
   <a href="#formacao">Formação</a> •
-  <a href="#stats">Stats</a> •
   <a href="#contato">Contato</a>
 </p>
 
 </div>
 
-<br/>
-
 <a name="sobre"></a>
-## 👋 Sobre
+## Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (UNIPÊ), com foco em seguir carreira como AI Engineer. Desenvolvo automações e integrações de sistemas com N8N, APIs e Webhooks, aplicando IA (LLMs, RAG, embeddings, agentes) para transformar processos manuais em fluxos eficientes. Trabalho na ponte entre lógica de negócio e implementação técnica — do desenho do workflow ao código que o sustenta.
+Sou estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ e estou construindo minha formação para me tornar Engenheiro de Software Full Stack. Escolhi Java com Spring Boot como minha principal tecnologia de backend e estou estudando TypeScript, React e Next.js no frontend.
 
-<br/>
+Tenho interesse em arquitetura de software, sistemas escaláveis, bancos de dados e na forma como um sistema é projetado, não só em como é codificado. Também tenho experiência prática com automação e IA aplicada, que considero um complemento à minha base em desenvolvimento.
 
 <a name="stack"></a>
-## 🛠️ Stack Técnica
+## Stack
 
-**🐍 Linguagens**
+| Área | Tecnologias |
+|---|---|
+| **Backend** | Java, Spring Boot, REST APIs, Maven |
+| **Frontend** | TypeScript, React, Next.js, HTML, CSS |
+| **Banco de dados** | PostgreSQL, SQL, Supabase |
+| **Engenharia / Ferramentas** | Git, GitHub, Docker, testes automatizados |
+| **IA e automação** | N8N, LLMs, RAG, agentes de IA, APIs de IA |
 
-<p>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&amp;logo=mysql&amp;logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&amp;logo=html5&amp;logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&amp;logo=css3&amp;logoColor=1572B6"/>
-</p>
+Java, Spring Boot, TypeScript, React, Next.js, PostgreSQL, Docker e testes automatizados estão em fase de estudo e prática. Tenho mais vivência com HTML, CSS, SQL, Git/GitHub e N8N.
 
-**🤖 IA &amp; Automação**
+<a name="projetos"></a>
+## Projetos
 
-<p>
-<img src="https://img.shields.io/badge/N8N-0D1117?style=for-the-badge&amp;logo=n8n&amp;logoColor=EA4B71"/>
-<img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Gemini-0D1117?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=8E75B2"/>
-</p>
+Estou desenvolvendo projetos para praticar Java, Spring Boot, APIs REST e PostgreSQL no backend, e TypeScript com React/Next.js no frontend. Os repositórios serão adicionados aqui conforme evoluírem.
 
-**🗄️ Dados (aprendendo)**
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&amp;logo=postgresql&amp;logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&amp;logo=supabase&amp;logoColor=3FCF8E"/>
-</p>
-
-**🛠️ Ferramentas &amp; Integração**
-
-<p>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&amp;logo=git&amp;logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=007ACC"/>
-<img src="https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-<img src="https://img.shields.io/badge/Webhooks-0D1117?style=for-the-badge&amp;logoColor=00F5FF"/>
-</p>
-
-<br/>
+Na área de IA, tenho projetos e fluxos com RAG e agentes de IA, que fazem parte da minha trajetória.
 
 <a name="experiencia"></a>
-## 💼 Experiência Prática
+## Experiência prática
 
-<details>
-<summary><strong>Automação e Integração com N8N</strong></summary>
-<br/>
-Desenvolvimento e manutenção de workflows automatizados envolvendo agentes de IA e integração entre diferentes serviços, com foco em organização das etapas do processo e funcionamento consistente dos fluxos.
-</details>
+**Fábrica de Software — UNIPÊ**
+Participação em atividades acadêmicas de desenvolvimento de software, com contato com processos de desenvolvimento, análise de problemas e construção de soluções.
 
-<details>
-<summary><strong>Fábrica de Software — UNIPÊ</strong></summary>
-<br/>
-Participação em atividades acadêmicas e práticas de desenvolvimento de software, com contato direto com processos de desenvolvimento, análise de problemas e construção de soluções.
-</details>
-
-<br/>
+**Automação com N8N** (projetos práticos)
+Desenvolvimento de workflows automatizados com agentes de IA e integração entre serviços, com atenção à organização das etapas e ao funcionamento consistente dos fluxos.
 
 <a name="formacao"></a>
-## 🎓 Formação
+## Formação
 
-**Análise e Desenvolvimento de Sistemas** — UNIPÊ (Centro Universitário de João Pessoa) — em andamento
+**Análise e Desenvolvimento de Sistemas** — UNIPÊ (Centro Universitário de João Pessoa), em andamento
 
 **Ensino Médio** — concluído em 2025
 
-<br/>
-
-<a name="stats"></a>
-## 📊 GitHub Stats
-
-<div align="right">
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=EmanuelMedeiros001&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;icon_color=00F5FF&amp;text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=EmanuelMedeiros001&amp;layout=compact&amp;theme=react&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F5FF&amp;text_color=c9d1d9" width="48%"/>
-</div>
+## GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=EmanuelMedeiros001&amp;hide_border=true&amp;background=0D1117&amp;ring=00F5FF&amp;fire=00F5FF&amp;currStreakLabel=00F5FF&amp;sideLabels=c9d1d9&amp;currStreakNum=FFFFFF&amp;sideNums=c9d1d9&amp;dates=c9d1d9" width="100%"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=EmanuelMedeiros001&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B8D4&icon_color=00B8D4&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=EmanuelMedeiros001&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B8D4&text_color=c9d1d9" width="48%"/>
 </div>
-
-<br/>
 
 <a name="contato"></a>
-## 🤝 Contato
+## Contato
 
-Aberto a oportunidades como Estagio & Programador Júnior — automação, integração de sistemas e IA aplicada.
+Aberto a oportunidades de estágio e posições júnior em desenvolvimento de software, com interesse em backend, Java e Full Stack.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=0A66C2)](https://linkedin.com/in/emanuel-medeiros-7a37b62a2/)
-[![Gmail](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=EA4335)](mailto:emanoelmedeirospb@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=25D366)](https://wa.me/5583986106289)
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B8D4)](https://linkedin.com/in/emanuel-medeiros-7a37b62a2/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B8D4)](https://github.com/EmanuelMedeiros001)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00B8D4)](mailto:emanoelmedeirospb@gmail.com)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00F5FF,35:3A0CA3,65:1B263B,100:0D1117&amp;height=100&amp;section=footer&amp;animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B8D4,50:1B263B,100:0D1117&height=70&section=footer" width="100%"/>
 </div>
