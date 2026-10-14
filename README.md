@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B263B,100:00B8D4&height=160&section=header&text=EMANUEL%20MEDEIROS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Engenharia%20de%20Software%20Full%20Stack&descAlignY=60&descSize=15&descColor=C9D1D9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,60:1B263B,100:00B8D4&height=160&section=header&text=EMANUEL%20MEDEIROS&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20Engenheiro%20de%20Software&descAlignY=60&descSize=15&descColor=C9D1D9" width="100%"/>
 
 <p>
   <a href="#sobre">Sobre</a> •
@@ -16,7 +16,7 @@
 <a name="sobre"></a>
 ## Sobre
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ e estou construindo minha formação para me tornar Engenheiro de Software Full Stack. Escolhi Java com Spring Boot como minha principal tecnologia de backend e estou estudando TypeScript, React e Next.js no frontend.
+Sou estudante de Análise e Desenvolvimento de Sistemas no UNIPÊ e estou construindo minha formação para me tornar Engenheiro de Software backend. Escolhi Java com Spring Boot como minha principal tecnologia de backend.
 
 Tenho interesse em arquitetura de software, sistemas escaláveis, bancos de dados e na forma como um sistema é projetado, não só em como é codificado. Também tenho experiência prática com automação e IA aplicada, que considero um complemento à minha base em desenvolvimento.
 
@@ -26,17 +26,16 @@ Tenho interesse em arquitetura de software, sistemas escaláveis, bancos de dado
 | Área | Tecnologias |
 |---|---|
 | **Backend** | Java, Spring Boot, REST APIs, Maven |
-| **Frontend** | TypeScript, React, Next.js, HTML, CSS |
 | **Banco de dados** | PostgreSQL, SQL, Supabase |
 | **Engenharia / Ferramentas** | Git, GitHub, Docker, testes automatizados |
 | **IA e automação** | N8N, LLMs, RAG, agentes de IA, APIs de IA |
 
-Java, Spring Boot, TypeScript, React, Next.js, PostgreSQL, Docker e testes automatizados estão em fase de estudo e prática. Tenho mais vivência com HTML, CSS, SQL, Git/GitHub e N8N.
+Java, Spring Boot, PostgreSQL, Docker e testes automatizados estão em fase de estudo e prática. Tenho mais vivência com SQL, Git/GitHub e N8N.
 
 <a name="projetos"></a>
 ## Projetos
 
-Estou desenvolvendo projetos para praticar Java, Spring Boot, APIs REST e PostgreSQL no backend, e TypeScript com React/Next.js no frontend. Os repositórios serão adicionados aqui conforme evoluírem.
+Estou desenvolvendo projetos para praticar Java, Spring Boot, APIs REST e PostgreSQL no backend. Os repositórios serão adicionados aqui conforme evoluírem.
 
 Na área de IA, tenho projetos e fluxos com RAG e agentes de IA, que fazem parte da minha trajetória.
 
@@ -66,7 +65,7 @@ Desenvolvimento de workflows automatizados com agentes de IA e integração entr
 <a name="contato"></a>
 ## Contato
 
-Aberto a oportunidades de estágio e posições júnior em desenvolvimento de software, com interesse em backend, Java e Full Stack.
+Aberto a oportunidades de estágio e posições júnior em desenvolvimento de software, com interesse em backend, Java.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B8D4)](https://linkedin.com/in/emanuel-medeiros-7a37b62a2/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00B8D4)](https://github.com/EmanuelMedeiros001)
